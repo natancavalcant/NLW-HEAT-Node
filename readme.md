@@ -1,4 +1,4 @@
-# ::rocket::NLW App - backend
+# 🚀:NLW App - backend
 
   Backend utilizado pela aplicação desenvolvida no NLW Heat da Rocketseat.
   
@@ -10,7 +10,7 @@
   yarn - para instalar as dependencias.
   yarn dev - inicia a api.
 
-## ::books::Construído com 
+## 📚:Construído com 
 
   Typescript - linguagem principal.
   Prisma - ORM (Object Relational Mapper).
@@ -23,6 +23,8 @@
   
 ## preview
 
+
 ![alt text](https://github.com/natancavalcant/NLW_HEAT-Frontend/blob/main/src/assets/NLW_HEAT_1.png?raw=true)
+
 ![alt text](https://github.com/natancavalcant/NLW_HEAT-Frontend/blob/main/src/assets/NLW_HEAT_2.png?raw=true)
 
